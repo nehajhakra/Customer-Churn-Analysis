@@ -1,0 +1,5 @@
+Telco Customer Churn Analysis Project
+Welcome to the Telco Customer Churn Analysis project! This repository offers a comprehensive analysis of customer churn for a telecommunications company. The project leverages data exploration, SQL queries, and insightful visualizations to uncover patterns and key drivers behind customer attrition. Whether you're a data enthusiast, business analyst, or telecom professional, this project will provide valuable insights into customer behavior and retention strategies.
+
+📊 What is Customer Churn?
+Customer churn refers to the phenomenon where customers discontinue their services with a company. In the telecommunications industry, churn is a critical metric that directly impacts revenue and customer lifetime value. High churn rates may indicate issues with service quality, pricing, or customer satisfaction. This project delves into various factors influencing churn, such as monthly charges, contract types, and service offerings, to help businesses devise effective retention strategies.
